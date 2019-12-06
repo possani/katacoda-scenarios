@@ -12,8 +12,12 @@
       {
         "title": "Step 2 - Run your program",
         "text": "step2.md"
-      }
-    ],
+      }],
+    "assets": {
+        "host01": [
+            {"file": "hello-world.go", "target": "/", "chmod": "+x"}
+        ]
+    },
     "intro": {
       "text": "intro.md"
     },
@@ -26,10 +30,5 @@
   },
   "backend": {
     "imageid": "go"
-  },
-  "assets": {
-    "host01": [
-        {"file": "hello-world.go", "target": "/", "chmod": "+x"}
-    ]
   }
 }
