@@ -13,11 +13,6 @@
         "title": "Step 2 - Run your program",
         "text": "step2.md"
       }],
-    "assets": {
-        "host01": [
-            {"file": "hello-world.go", "target": "/home/scrapbook/tutorial/", "chmod": "+x"}
-        ]
-    },
     "intro": {
       "text": "intro.md"
     },
