@@ -15,7 +15,7 @@
       }],
     "assets": {
         "host01": [
-            {"file": "hello-world.go", "target": "/", "chmod": "+x"}
+            {"file": "hello-world.go", "target": "/home/scrapbook/tutorial/", "chmod": "+x"}
         ]
     },
     "intro": {
