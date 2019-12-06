@@ -1,0 +1,35 @@
+{
+  "title": "Golang - Hello, World!",
+  "description": "Write your first go program.",
+  "difficulty": "Beginner",
+  "time": "5 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1 - Create your main function",
+        "text": "step1.md"
+      },
+      {
+        "title": "Step 2 - Run your program",
+        "text": "step2.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "editor-terminal"
+  },
+  "backend": {
+    "imageid": "go"
+  },
+  "assets": {
+    "host01": [
+        {"file": "hello-world.go", "target": "/", "chmod": "+x"}
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+Congratulations. You have written your first program in Go.
